@@ -335,7 +335,7 @@ h3 {
 .container nav a,
 .gallery nav a,
 .about nav a {
-  font-size: 1.2rem;
+  font-size: 2rem;
   display: block;
   /* Makes each link take up a grid cell cleanly */
   text-align: center;
